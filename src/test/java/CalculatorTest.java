@@ -1,5 +1,3 @@
-package mavenTestNGHomework;
-
 import classroomSix.Calculator;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
