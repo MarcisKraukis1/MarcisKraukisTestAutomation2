@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce8b4f3-f80d-459b-9e84-cb852b57432d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/mavenTestNGHomework/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mavenTestNGHomework/MavenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mavenTestNGHomework/webTitleParbaude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/acodemyShop/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Footer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/ProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CheckoutOverviewPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CheckoutSuccessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classRoomEight/AcodemyShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classRoomSeven/SwagLabsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumHomework/SauceDemoTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classroomSix/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classroomSix/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classroomSix/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classroomSix/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classroomSix/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classroomSix/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstSeleniumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,48 +61,18 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MavenTest">
-    <configuration name="MavenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.MavenTest" />
+  <component name="RunManager" selected="TestNG.SauceDemoTests.otraisScenarijs">
+    <configuration name="AcodemyShopTest.keyBoardActionTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MarcisKraukisTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mavenTestNGHomework.*" />
+          <option name="PATTERN" value="classRoomEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalcTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MarcisKraukisTestAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mavenTestNGHomework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
-      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.CalcTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalcTest.sumParbaude" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MarcisKraukisTestAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mavenTestNGHomework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
-      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.CalcTest" />
-      <option name="METHOD_NAME" value="sumParbaude" />
+      <option name="PACKAGE_NAME" value="classRoomEight" />
+      <option name="MAIN_CLASS_NAME" value="classRoomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="keyBoardActionTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,16 +80,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="webTitleParbaude" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AcodemyShopTest.mouseActionsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MarcisKraukisTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mavenTestNGHomework.*" />
+          <option name="PATTERN" value="classRoomEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
-      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.webTitleParbaude" />
+      <option name="PACKAGE_NAME" value="classRoomEight" />
+      <option name="MAIN_CLASS_NAME" value="classRoomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="mouseActionsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceDemoTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarcisKraukisTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumHomework" />
+      <option name="MAIN_CLASS_NAME" value="seleniumHomework.SauceDemoTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -123,17 +115,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="webTitleParbaude.webTitleParbaudeViens" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SauceDemoTests.otraisScenarijs" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MarcisKraukisTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mavenTestNGHomework.*" />
+          <option name="PATTERN" value="seleniumHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
-      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.webTitleParbaude" />
-      <option name="METHOD_NAME" value="webTitleParbaudeViens" />
+      <option name="PACKAGE_NAME" value="seleniumHomework" />
+      <option name="MAIN_CLASS_NAME" value="seleniumHomework.SauceDemoTests" />
+      <option name="METHOD_NAME" value="otraisScenarijs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceDemoTests.testSuccessLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarcisKraukisTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumHomework" />
+      <option name="MAIN_CLASS_NAME" value="seleniumHomework.SauceDemoTests" />
+      <option name="METHOD_NAME" value="testSuccessLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -143,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MavenTest" />
-        <item itemvalue="TestNG.webTitleParbaude" />
-        <item itemvalue="TestNG.webTitleParbaude.webTitleParbaudeViens" />
-        <item itemvalue="TestNG.CalcTest" />
-        <item itemvalue="TestNG.CalcTest.sumParbaude" />
+        <item itemvalue="TestNG.SauceDemoTests.otraisScenarijs" />
+        <item itemvalue="TestNG.SauceDemoTests" />
+        <item itemvalue="TestNG.SauceDemoTests.testSuccessLogin" />
+        <item itemvalue="TestNG.AcodemyShopTest.keyBoardActionTest" />
+        <item itemvalue="TestNG.AcodemyShopTest.mouseActionsTest" />
       </list>
     </recent_temporary>
   </component>
